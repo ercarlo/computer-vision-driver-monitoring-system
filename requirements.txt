@@ -1,0 +1,8 @@
+# Assignment 3 – Driver Monitoring System
+# Install with:  pip install -r requirements.txt
+
+opencv-python>=4.9
+mediapipe>=0.10
+numpy>=1.26
+scipy>=1.13          # used in Part 5 (heartbeat bandpass filter)
+scikit-learn>=1.4    # optional – FastICA path in heartbeat estimator
